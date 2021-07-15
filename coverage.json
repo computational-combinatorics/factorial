@@ -1,0 +1,21 @@
+{
+  "coverage": "33.33%",
+  "expectCount": 3,
+  "actualCount": 1,
+  "files": {
+    "src/factorial.js": {
+      "expectCount": 2,
+      "actualCount": 1,
+      "undocumentLines": [
+        4
+      ]
+    },
+    "src/lookup.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        1
+      ]
+    }
+  }
+}
