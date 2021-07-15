@@ -1,7 +1,7 @@
 {
   "name": "@combinatorics/factorial",
   "description": "Factorial function for JavaScript",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "AGPL-3.0",
   "author": "make-github-pseudonymous-again",
   "homepage": "https://computational-combinatorics.github.io/factorial",
