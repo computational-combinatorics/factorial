@@ -1,7 +1,7 @@
 # Examples
 
 ```js
-import { factorial } from '@combinatorics/factorial' ;
+import {factorial} from '@combinatorics/factorial' ;
 factorial(18) ; // 6402373705728000
 ```
 
