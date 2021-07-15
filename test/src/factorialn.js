@@ -4,7 +4,7 @@ import {enumerate} from '@iterable-iterator/zip';
 
 import {sequence} from './_fixtures.js';
 
-import {factorialn as factorial} from '../../src.js';
+import {factorialn as factorial} from '../../src/index.js';
 
 const macro = (t, n, f) => t.is(factorial(n), f);
 

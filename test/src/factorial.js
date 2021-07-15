@@ -4,7 +4,7 @@ import {enumerate} from '@iterable-iterator/zip';
 
 import {sequence} from './_fixtures.js';
 
-import {factorial, lookup} from '../../src.js';
+import {factorial, lookup} from '../../src/index.js';
 
 // eslint-disable-next-line eqeqeq
 const macro = (t, n, f) => t.true(factorial(n) == f);
