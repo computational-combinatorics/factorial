@@ -7,7 +7,6 @@ import _factorialn from './_factorialn.js';
  * @param {bigint} n
  */
 const factorialn = (n) => {
-	// eslint-disable-next-line unicorn/error-message
 	if (typeof n !== 'bigint') throw new TypeError();
 	if (n < 0n) throw new ValueError();
 

@@ -12,7 +12,6 @@ const N = lookup.length;
  * @returns {number} The factorial of the input number.
  */
 const factorial = (n) => {
-	// eslint-disable-next-line unicorn/error-message
 	if (typeof n !== 'number') throw new TypeError();
 	if (!Number.isInteger(n)) throw new ValueError();
 	if (n < 0) throw new ValueError();

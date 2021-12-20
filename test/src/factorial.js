@@ -2,9 +2,8 @@ import test from 'ava';
 import {TypeError, ValueError} from '@failure-abstraction/error';
 import {enumerate} from '@iterable-iterator/zip';
 
-import {sequence} from './_fixtures.js';
-
 import {factorial, lookup} from '../../src/index.js';
+import {sequence} from './_fixtures.js';
 
 // eslint-disable-next-line eqeqeq
 const macro = (t, n, f) => t.true(factorial(n) == f);
