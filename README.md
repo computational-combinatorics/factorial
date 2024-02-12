@@ -14,7 +14,7 @@ factorialn(1000n); // 4023872600770937735437024339230039857193748642107146325437
 
 [![License](https://img.shields.io/github/license/computational-combinatorics/factorial.svg)](https://raw.githubusercontent.com/computational-combinatorics/factorial/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@combinatorics/factorial.svg)](https://www.npmjs.org/package/@combinatorics/factorial)
-[![Tests](https://img.shields.io/github/workflow/status/computational-combinatorics/factorial/ci:cover?event=push&label=tests)](https://github.com/computational-combinatorics/factorial/actions/workflows/ci:cover.yml?query=branch:main)
+[![Tests](https://img.shields.io/github/workflow/status/computational-combinatorics/factorial/ci?event=push&label=tests)](https://github.com/computational-combinatorics/factorial/actions/workflows/ci.yml?query=branch:main)
 [![Dependencies](https://img.shields.io/librariesio/github/computational-combinatorics/factorial.svg)](https://github.com/computational-combinatorics/factorial/network/dependencies)
 [![GitHub issues](https://img.shields.io/github/issues/computational-combinatorics/factorial.svg)](https://github.com/computational-combinatorics/factorial/issues)
 [![Downloads](https://img.shields.io/npm/dm/@combinatorics/factorial.svg)](https://www.npmjs.org/package/@combinatorics/factorial)

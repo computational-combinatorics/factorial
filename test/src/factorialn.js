@@ -2,8 +2,8 @@ import test from 'ava';
 import {TypeError, ValueError} from '@failure-abstraction/error';
 import {enumerate} from '@iterable-iterator/zip';
 
-import {factorialn as factorial} from '../../src/index.js';
 import {sequence} from './_fixtures.js';
+import {factorialn as factorial} from '#module';
 
 const macro = (t, n, f) => t.is(factorial(n), f);
 
