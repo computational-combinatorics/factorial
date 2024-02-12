@@ -1,8 +1,10 @@
 import test from 'ava';
+
 import {TypeError, ValueError} from '@failure-abstraction/error';
 import {enumerate} from '@iterable-iterator/zip';
 
 import {sequence} from './_fixtures.js';
+
 import {factorial, lookup} from '#module';
 
 // eslint-disable-next-line eqeqeq

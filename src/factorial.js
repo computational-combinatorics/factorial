@@ -1,4 +1,5 @@
 import {TypeError, ValueError} from '@failure-abstraction/error';
+
 import lookup from './lookup.js';
 
 const N = lookup.length;

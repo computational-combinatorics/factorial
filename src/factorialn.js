@@ -1,4 +1,5 @@
 import {TypeError, ValueError} from '@failure-abstraction/error';
+
 import _factorialn from './_factorialn.js';
 
 /**
