@@ -1,3 +1,7 @@
+import * as mod from '#module';
+
+export const {TypeError, ValueError} = mod.default ?? mod;
+
 export const sequence = [
 	1n,
 	1n,
